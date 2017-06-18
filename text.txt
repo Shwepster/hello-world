@@ -1,5 +1,4 @@
 new
-2 up
 branch text
 branch
 branch
