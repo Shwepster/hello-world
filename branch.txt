@@ -1,3 +1,3 @@
-branch
+branch;
 boom
 last branch
