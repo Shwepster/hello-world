@@ -1,3 +1,8 @@
 texkt test
+<<<<<<< HEAD
 branch 1
 22222
+=======
+ñùüüøå 1
+branch 1
+>>>>>>> de19e0113d5f5f8060b5c5a973c369908000f1fa
