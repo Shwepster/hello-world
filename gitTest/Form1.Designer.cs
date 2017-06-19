@@ -78,7 +78,7 @@
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(204, 23);
             this.label3.TabIndex = 4;
-            this.label3.Text = "Student";
+            this.label3.Text = "Enter info";
             this.label3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label4
@@ -97,7 +97,6 @@
             this.button1.Cursor = System.Windows.Forms.Cursors.Hand;
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-
             this.button1.Location = new System.Drawing.Point(9, 132);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(210, 24);
