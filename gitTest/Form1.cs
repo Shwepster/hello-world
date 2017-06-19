@@ -23,7 +23,7 @@ namespace gitTest
         {
             student = new Student(textBox1.Text, int.Parse(textBox2.Text));
 
-            label4.Text = student.Name + student.Age + " years old";
+            label4.Text = student.Name +" "+ student.Age + " years old from " + (2017 - student.Age);      
         }
 
   
