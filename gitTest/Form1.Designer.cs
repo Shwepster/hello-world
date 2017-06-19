@@ -76,7 +76,7 @@
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(204, 23);
             this.label3.TabIndex = 4;
-            this.label3.Text = "Student info";
+            this.label3.Text = "Student";
             this.label3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label4
