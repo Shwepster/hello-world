@@ -10,16 +10,20 @@ using System.Windows.Forms;
 
 namespace gitTest
 {
-    public partial class Student : Form
+    public partial class Window1 : Form
     {
-        public Student()
+        Student student;
+
+        public Window1()
         {
             InitializeComponent();
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
+            student = new Student(textBox1.Text, int.Parse(textBox2.Text));
 
+            label4.Text = student.Name + student.Age + " years old";
         }
     }
 }
